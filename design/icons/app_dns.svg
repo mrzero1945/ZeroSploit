@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.1" inkscape:version="1.4.2" width="1024pt" height="1024pt" viewBox="0 0 1024 1024">
+<title id="tt">ZEROSPLOIT</title>
+<defs id="zsdefs"><linearGradient id="g_dns" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#C4AF95"/><stop offset="0.45" stop-color="#AC8E68"/><stop offset="1" stop-color="#6A5840"/></linearGradient><filter id="sh1" x="-60%" y="-60%" width="220%" height="220%" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceAlpha" stdDeviation="30.72" result="b"/><feOffset in="b" dx="0" dy="12.288" result="o"/><feFlood flood-color="#000000" flood-opacity="0.42"/><feComposite in2="o" operator="in" result="s"/><feMerge><feMergeNode in="s"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="h_dns" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.3"/><stop offset="0.55" stop-color="#FFFFFF" stop-opacity="0.03"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0.0"/></linearGradient></defs>
+<rect x="0" y="0" width="1024" height="1024" rx="229.069" ry="229.069" fill="url(#g_dns)" filter="url(#sh1)"/>
+<rect x="20.48" y="20.48" width="983.04" height="983.04" rx="229.069" ry="229.069" fill="url(#h_dns)"/>
+<circle cx="337.92" cy="522.24" r="28.16" fill="#FFFFFF"/>
+<line x1="368.64" y1="532.48" x2="491.52" y2="532.48" stroke="#FFFFFF" stroke-width="33.1776" stroke-linecap="butt"/>
+<line x1="368.64" y1="491.52" x2="491.52" y2="409.6" stroke="#FFFFFF" stroke-width="33.1776" stroke-linecap="butt"/>
+<line x1="491.52" y1="409.6" x2="665.6" y2="409.6" stroke="#FFFFFF" stroke-width="33.1776" stroke-linecap="butt"/>
+<circle cx="665.6" cy="409.6" r="28.16" fill="#FFFFFF"/>
+<line x1="491.52" y1="532.48" x2="665.6" y2="532.48" stroke="#FFFFFF" stroke-width="33.1776" stroke-linecap="butt"/>
+<circle cx="665.6" cy="532.48" r="28.16" fill="#FFFFFF"/>
+<line x1="627.2" y1="570.88" x2="704" y2="494.08" stroke="#FFFFFF" stroke-width="37.3248" stroke-linecap="butt"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.1" inkscape:version="1.4.2" width="1024pt" height="1024pt" viewBox="0 0 1024 1024">
+<title id="tt">ZEROSPLOIT</title>
+<defs id="zsdefs"><linearGradient id="g_hijack" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#92DFFF"/><stop offset="0.45" stop-color="#64D2FF"/><stop offset="1" stop-color="#3E829E"/></linearGradient><filter id="sh1" x="-60%" y="-60%" width="220%" height="220%" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceAlpha" stdDeviation="30.72" result="b"/><feOffset in="b" dx="0" dy="12.288" result="o"/><feFlood flood-color="#000000" flood-opacity="0.42"/><feComposite in2="o" operator="in" result="s"/><feMerge><feMergeNode in="s"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="h_hijack" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.3"/><stop offset="0.55" stop-color="#FFFFFF" stop-opacity="0.03"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0.0"/></linearGradient></defs>
+<rect x="0" y="0" width="1024" height="1024" rx="229.069" ry="229.069" fill="url(#g_hijack)" filter="url(#sh1)"/>
+<rect x="20.48" y="20.48" width="983.04" height="983.04" rx="229.069" ry="229.069" fill="url(#h_hijack)"/>
+<path d="M 358.4 481.28 L 358.4 665.6 L 665.6 665.6 L 665.6 481.28 Z" fill="none" stroke="#FFFFFF" stroke-width="41.472" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 409.60 481.28 A 102.40 102.40 0 0 1 563.20 392.60" fill="none" stroke="#FFFFFF" stroke-width="41.472" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="409.6" y1="481.28" x2="409.6" y2="430.08" stroke="#FFFFFF" stroke-width="41.472" stroke-linecap="butt"/>
+<line x1="665.6" y1="481.28" x2="727.04" y2="399.36" stroke="#FFFFFF" stroke-width="41.472" stroke-linecap="butt"/>
+<circle cx="512" cy="573.44" r="28.16" fill="#FFFFFF"/>
+</svg>

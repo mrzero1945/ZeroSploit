@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="r_card">18dp</dimen>
+    <dimen name="r_large">24dp</dimen>
+    <dimen name="r_sheet">28dp</dimen>
+    <dimen name="r_control">12dp</dimen>
+    <dimen name="r_tile">10dp</dimen>
+    <dimen name="gutter">16dp</dimen>
+    <dimen name="margin">20dp</dimen>
+    <dimen name="row_h">44dp</dimen>
+    <dimen name="tile">30dp</dimen>
+    <dimen name="tab_h">49dp</dimen>
+    <dimen name="hairline">0.5dp</dimen>
+</resources>

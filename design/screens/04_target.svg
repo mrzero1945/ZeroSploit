@@ -1,0 +1,206 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.1" inkscape:version="1.4.2" width="393pt" height="852pt" viewBox="0 0 393 852">
+<title id="tt">ZEROSPLOIT</title>
+<sodipodi:namedview id="nv" inkscape:document-units="pt" pagecolor="#000000" bordercolor="#666666" inkscape:pagecheckerboard="false" inkscape:zoom="0.5" inkscape:cx="196" inkscape:cy="426"/>
+<defs id="zsdefs"><linearGradient id="grad1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1C1C1E" stop-opacity="0.0"/><stop offset="0.5" stop-color="#1C1C1E" stop-opacity="0.92"/><stop offset="1" stop-color="#1C1C1E" stop-opacity="1.0"/></linearGradient><linearGradient id="th" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#101A2E"/><stop offset="1" stop-color="#0A0C10"/></linearGradient></defs>
+<rect x="0" y="0" width="393" height="852" rx="0" ry="0" fill="#000000"/>
+<text x="29" y="35" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="start" letter-spacing="0" xml:space="preserve">9:41</text>
+<rect x="126" y="11" width="141" height="37" rx="19" ry="19" fill="#000"/>
+<circle cx="213" cy="29.5" r="4.5" fill="#1C1C1E"/>
+<rect x="288" y="31" width="3.4" height="4" rx="1.1" ry="1.1" fill="#FFFFFF"/>
+<rect x="293" y="28.5" width="3.4" height="6.5" rx="1.1" ry="1.1" fill="#FFFFFF"/>
+<rect x="298" y="26" width="3.4" height="9" rx="1.1" ry="1.1" fill="#FFFFFF"/>
+<rect x="303" y="23.5" width="3.4" height="11.5" rx="1.1" ry="1.1" fill="#FFFFFF"/>
+<path d="M 325.8 27.5 A 6.4 6.4 0 0 1 332.2 27.5" fill="none" stroke="#FFFFFF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 322.4 27.7 A 13.2 13.2 0 0 1 335.6 27.5" fill="none" stroke="#FFFFFF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 319 27.9 A 20 20 0 0 1 339 27.5" fill="none" stroke="#FFFFFF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="329" cy="32.2" r="1.5" fill="#FFFFFF"/>
+<rect x="340" y="24" width="22" height="11" rx="3.4" ry="3.4" fill="none" stroke="#FFFFFF" stroke-width="1" opacity="0.4"/>
+<rect x="342" y="26" width="14" height="7" rx="2" ry="2" fill="#FFFFFF"/>
+<rect x="363.5" y="27.4" width="1.6" height="4.2" rx="0.8" ry="0.8" fill="#FFFFFF" opacity="0.4"/>
+<rect x="0" y="763" width="393" height="89" rx="0" ry="0" fill="#000000"/>
+<rect x="0" y="769" width="393" height="49" rx="0" ry="0" fill="url(#grad1)"/>
+<line x1="0" y1="769" x2="393" y2="769" stroke="rgba(84,84,88,0.65)" stroke-width="0.5" stroke-linecap="butt"/>
+<circle cx="39.3" cy="789" r="8.58" fill="none" stroke="rgba(235,235,245,0.30)" stroke-width="1.6"/>
+<circle cx="39.3" cy="789" r="3.96" fill="none" stroke="rgba(235,235,245,0.30)" stroke-width="1.6" opacity="0.75"/>
+<line x1="39.3" y1="789" x2="45.46" y2="782.84" stroke="rgba(235,235,245,0.30)" stroke-width="1.6" stroke-linecap="butt"/>
+<text x="39.3" y="811" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="11" font-weight="500" fill="rgba(235,235,245,0.30)" text-anchor="middle" letter-spacing="0.1" xml:space="preserve">Scan</text>
+<rect x="108.55" y="780.75" width="10.45" height="11.55" rx="2" ry="2" fill="none" stroke="#0A84FF" stroke-width="1.6"/>
+<rect x="119.55" y="785.7" width="7.7" height="13.2" rx="2" ry="2" fill="none" stroke="#0A84FF" stroke-width="1.6"/>
+<text x="117.9" y="811" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="11" font-weight="500" fill="#0A84FF" text-anchor="middle" letter-spacing="0.1" xml:space="preserve">Targets</text>
+<rect x="186.6" y="780.75" width="19.8" height="16.5" rx="2.6" ry="2.6" fill="none" stroke="rgba(235,235,245,0.30)" stroke-width="1.6"/>
+<polygon points="191.55,786.8 195.95,789.88 191.55,792.96" fill="none" stroke="rgba(235,235,245,0.30)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="197.05" y1="792.96" x2="202" y2="792.96" stroke="rgba(235,235,245,0.30)" stroke-width="1.6" stroke-linecap="butt"/>
+<text x="196.5" y="811" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="11" font-weight="500" fill="rgba(235,235,245,0.30)" text-anchor="middle" letter-spacing="0.1" xml:space="preserve">Sessions</text>
+<line x1="265.2" y1="797.25" x2="265.2" y2="782.4" stroke="rgba(235,235,245,0.30)" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="270.15" y1="797.25" x2="270.15" y2="789" stroke="rgba(235,235,245,0.30)" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="275.1" y1="797.25" x2="275.1" y2="777.45" stroke="rgba(235,235,245,0.30)" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="280.05" y1="797.25" x2="280.05" y2="786.525" stroke="rgba(235,235,245,0.30)" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="285" y1="797.25" x2="285" y2="780.75" stroke="rgba(235,235,245,0.30)" stroke-width="1.6" stroke-linecap="butt"/>
+<text x="275.1" y="811" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="11" font-weight="500" fill="rgba(235,235,245,0.30)" text-anchor="middle" letter-spacing="0.1" xml:space="preserve">Logs</text>
+<circle cx="353.7" cy="789" r="4.62" fill="none" stroke="rgba(235,235,245,0.30)" stroke-width="1.7"/>
+<line x1="360.52" y1="789" x2="363.6" y2="789" stroke="rgba(235,235,245,0.30)" stroke-width="1.5" stroke-linecap="butt"/>
+<line x1="358.522" y1="793.822" x2="360.7" y2="796" stroke="rgba(235,235,245,0.30)" stroke-width="1.5" stroke-linecap="butt"/>
+<line x1="353.7" y1="795.82" x2="353.7" y2="798.9" stroke="rgba(235,235,245,0.30)" stroke-width="1.5" stroke-linecap="butt"/>
+<line x1="348.878" y1="793.822" x2="346.7" y2="796" stroke="rgba(235,235,245,0.30)" stroke-width="1.5" stroke-linecap="butt"/>
+<line x1="346.88" y1="789" x2="343.8" y2="789" stroke="rgba(235,235,245,0.30)" stroke-width="1.5" stroke-linecap="butt"/>
+<line x1="348.878" y1="784.178" x2="346.7" y2="782" stroke="rgba(235,235,245,0.30)" stroke-width="1.5" stroke-linecap="butt"/>
+<line x1="353.7" y1="782.18" x2="353.7" y2="779.1" stroke="rgba(235,235,245,0.30)" stroke-width="1.5" stroke-linecap="butt"/>
+<line x1="358.522" y1="784.178" x2="360.7" y2="782" stroke="rgba(235,235,245,0.30)" stroke-width="1.5" stroke-linecap="butt"/>
+<text x="353.7" y="811" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="11" font-weight="500" fill="rgba(235,235,245,0.30)" text-anchor="middle" letter-spacing="0.1" xml:space="preserve">Settings</text>
+<rect x="129.5" y="840" width="134" height="5" rx="2.5" ry="2.5" fill="#FFFFFF" opacity="0.92"/>
+<rect x="20" y="116" width="353" height="150" rx="24" ry="24" fill="url(#th)"/>
+<rect x="38" y="134" width="52" height="52" rx="14" ry="14" fill="#0A84FF" opacity="0.2"/>
+<rect x="50.36" y="153.8" width="27.28" height="13.02" rx="4" ry="4" fill="none" stroke="#0A84FF" stroke-width="2.2"/>
+<circle cx="55.94" cy="160" r="1.55" fill="#0A84FF"/>
+<circle cx="60.9" cy="160" r="1.55" fill="#0A84FF"/>
+<path d="M 66.41 162.34 A 4.03 4.03 0 0 1 73.99 162.34" fill="none" stroke="#0A84FF" stroke-width="1.7600000000000002" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 63.21 161.18 A 7.44 7.44 0 0 1 77.19 161.18" fill="none" stroke="#0A84FF" stroke-width="1.7600000000000002" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="102" y="154" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="20" font-weight="600" fill="#FFFFFF" text-anchor="start" letter-spacing="-0.24" xml:space="preserve">ASUS RT-AX56U</text>
+<text x="102" y="176" font-family="'SF Mono',ui-monospace,'SF Mono Text',Menlo,'Roboto Mono','DejaVu Sans Mono',monospace" font-size="15" font-weight="400" fill="rgba(235,235,245,0.60)" text-anchor="start" letter-spacing="0.2" xml:space="preserve">192.168.1.1</text>
+<rect x="38" y="192" width="55.2" height="19" rx="9.5" ry="9.5" fill="#30D158" opacity="0.2"/>
+<text x="65.6" y="205.3" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#30D158" text-anchor="middle" letter-spacing="0.1" xml:space="preserve">GATEWAY</text>
+<rect x="99.2" y="192" width="44" height="19" rx="9.5" ry="9.5" fill="#0A84FF" opacity="0.2"/>
+<text x="121.2" y="205.3" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#0A84FF" text-anchor="middle" letter-spacing="0.1" xml:space="preserve">LINUX</text>
+<rect x="149.2" y="192" width="44" height="19" rx="9.5" ry="9.5" fill="#5E5CE6" opacity="0.2"/>
+<text x="171.2" y="205.3" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#5E5CE6" text-anchor="middle" letter-spacing="0.1" xml:space="preserve">ARMv7</text>
+<line x1="38" y1="228" x2="355" y2="228" stroke="rgba(84,84,88,0.65)" stroke-width="0.5" stroke-linecap="butt"/>
+<text x="38" y="246" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="11" font-weight="400" fill="rgba(235,235,245,0.30)" text-anchor="start" letter-spacing="0.5" xml:space="preserve">MAC</text>
+<text x="38" y="261" font-family="'SF Mono',ui-monospace,'SF Mono Text',Menlo,'Roboto Mono','DejaVu Sans Mono',monospace" font-size="10.5" font-weight="400" fill="rgba(235,235,245,0.60)" text-anchor="start" letter-spacing="0.2" xml:space="preserve">2C:30:33:8F:12:04</text>
+<text x="117.25" y="246" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="11" font-weight="400" fill="rgba(235,235,245,0.30)" text-anchor="start" letter-spacing="0.5" xml:space="preserve">VENDOR</text>
+<text x="117.25" y="261" font-family="'SF Mono',ui-monospace,'SF Mono Text',Menlo,'Roboto Mono','DejaVu Sans Mono',monospace" font-size="10.5" font-weight="400" fill="rgba(235,235,245,0.60)" text-anchor="start" letter-spacing="0.2" xml:space="preserve">ASUSTek</text>
+<text x="196.5" y="246" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="11" font-weight="400" fill="rgba(235,235,245,0.30)" text-anchor="start" letter-spacing="0.5" xml:space="preserve">OPEN</text>
+<text x="196.5" y="261" font-family="'SF Mono',ui-monospace,'SF Mono Text',Menlo,'Roboto Mono','DejaVu Sans Mono',monospace" font-size="10.5" font-weight="400" fill="rgba(235,235,245,0.60)" text-anchor="start" letter-spacing="0.2" xml:space="preserve">12</text>
+<text x="275.75" y="246" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="11" font-weight="400" fill="rgba(235,235,245,0.30)" text-anchor="start" letter-spacing="0.5" xml:space="preserve">OS</text>
+<text x="275.75" y="261" font-family="'SF Mono',ui-monospace,'SF Mono Text',Menlo,'Roboto Mono','DejaVu Sans Mono',monospace" font-size="10.5" font-weight="400" fill="rgba(235,235,245,0.60)" text-anchor="start" letter-spacing="0.2" xml:space="preserve">OpenWrt 21.02</text>
+<text x="20" y="286" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="11" font-weight="400" fill="rgba(235,235,245,0.60)" text-anchor="start" letter-spacing="0.8" xml:space="preserve">ASSESSMENT MODULES</text>
+<rect x="20" y="298" width="170.5" height="84" rx="18" ry="18" fill="#1C1C1E"/>
+<rect x="20" y="298" width="170.5" height="84" rx="18" ry="18" fill="none" stroke="rgba(84,84,88,0.65)" stroke-width="0.5"/>
+<rect x="34" y="312" width="34" height="34" rx="9" ry="9" fill="#0A84FF" opacity="0.2"/>
+<circle cx="51" cy="329" r="8.4" fill="none" stroke="#0A84FF" stroke-width="1.7"/>
+<circle cx="51" cy="329" r="4.2" fill="none" stroke="#0A84FF" stroke-width="1.7" opacity="0.7"/>
+<line x1="51" y1="329" x2="56.88" y2="323.12" stroke="#0A84FF" stroke-width="1.7" stroke-linecap="butt"/>
+<circle cx="51" cy="329" r="0.945" fill="#0A84FF"/>
+<text x="34" y="366" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="start" letter-spacing="-0.24" xml:space="preserve">Port Scanner</text>
+<path d="M 168.5 336 L 174.5 342 L 168.5 348" fill="none" stroke="rgba(235,235,245,0.30)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="202.5" y="298" width="170.5" height="84" rx="18" ry="18" fill="#1C1C1E"/>
+<rect x="202.5" y="298" width="170.5" height="84" rx="18" ry="18" fill="none" stroke="rgba(84,84,88,0.65)" stroke-width="0.5"/>
+<rect x="216.5" y="312" width="34" height="34" rx="9" ry="9" fill="#5E5CE6" opacity="0.2"/>
+<line x1="225.94" y1="334.04" x2="233.5" y2="323.96" stroke="#5E5CE6" stroke-width="1.53" stroke-linecap="round" stroke-dasharray="1.16 1.57"/>
+<line x1="233.5" y1="323.96" x2="241.06" y2="334.04" stroke="#5E5CE6" stroke-width="1.53" stroke-linecap="round" stroke-dasharray="1.16 1.57"/>
+<circle cx="225.94" cy="334.04" r="2.415" fill="none" stroke="#5E5CE6" stroke-width="1.7"/>
+<circle cx="233.5" cy="323.96" r="2.415" fill="none" stroke="#5E5CE6" stroke-width="1.7"/>
+<circle cx="241.06" cy="334.04" r="2.415" fill="#5E5CE6" stroke="#5E5CE6" stroke-width="1.7"/>
+<text x="216.5" y="366" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="start" letter-spacing="-0.24" xml:space="preserve">Traceroute</text>
+<path d="M 351.0 336 L 357.0 342 L 351.0 348" fill="none" stroke="rgba(235,235,245,0.30)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="20" y="390" width="170.5" height="84" rx="18" ry="18" fill="#1C1C1E"/>
+<rect x="20" y="390" width="170.5" height="84" rx="18" ry="18" fill="none" stroke="rgba(84,84,88,0.65)" stroke-width="0.5"/>
+<rect x="34" y="404" width="34" height="34" rx="9" ry="9" fill="#40C8E0" opacity="0.2"/>
+<path d="M 47.43 416.38 L 52.26 416.38 L 53.94 418.06 L 53.94 422.68 L 47.43 422.68 Z" fill="none" stroke="#40C8E0" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="47.22" y1="415.54" x2="52.05" y2="415.54" stroke="#40C8E0" stroke-width="1.36" stroke-linecap="butt"/>
+<line x1="47.22" y1="419.32" x2="52.05" y2="419.32" stroke="#40C8E0" stroke-width="1.36" stroke-linecap="butt"/>
+<circle cx="54.36" cy="425.2" r="3.99" fill="none" stroke="#40C8E0" stroke-width="1.7"/>
+<line x1="57.3" y1="428.14" x2="60.24" y2="431.08" stroke="#40C8E0" stroke-width="1.87" stroke-linecap="butt"/>
+<text x="34" y="458" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="start" letter-spacing="-0.24" xml:space="preserve">Service Inspect</text>
+<path d="M 168.5 428 L 174.5 434 L 168.5 440" fill="none" stroke="rgba(235,235,245,0.30)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="202.5" y="390" width="170.5" height="84" rx="18" ry="18" fill="#1C1C1E"/>
+<rect x="202.5" y="390" width="170.5" height="84" rx="18" ry="18" fill="none" stroke="rgba(84,84,88,0.65)" stroke-width="0.5"/>
+<rect x="216.5" y="404" width="34" height="34" rx="9" ry="9" fill="#FF453A" opacity="0.2"/>
+<ellipse cx="233.5" cy="421.42" rx="4.62" ry="6.3" fill="none" stroke="#FF453A" stroke-width="1.7"/>
+<circle cx="233.5" cy="414.7" r="2.31" fill="none" stroke="#FF453A" stroke-width="1.7"/>
+<line x1="233.5" y1="417.01" x2="233.5" y2="417.64" stroke="#FF453A" stroke-width="1.7" stroke-linecap="butt"/>
+<line x1="228.88" y1="417.64" x2="224.26" y2="417.64" stroke="#FF453A" stroke-width="1.445" stroke-linecap="butt"/>
+<line x1="238.12" y1="417.64" x2="242.74" y2="417.64" stroke="#FF453A" stroke-width="1.445" stroke-linecap="butt"/>
+<line x1="228.88" y1="421.84" x2="224.26" y2="421.84" stroke="#FF453A" stroke-width="1.445" stroke-linecap="butt"/>
+<line x1="238.12" y1="421.84" x2="242.74" y2="421.84" stroke="#FF453A" stroke-width="1.445" stroke-linecap="butt"/>
+<line x1="228.88" y1="426.04" x2="224.26" y2="426.04" stroke="#FF453A" stroke-width="1.445" stroke-linecap="butt"/>
+<line x1="238.12" y1="426.04" x2="242.74" y2="426.04" stroke="#FF453A" stroke-width="1.445" stroke-linecap="butt"/>
+<line x1="231.19" y1="412.6" x2="230.56" y2="410.92" stroke="#FF453A" stroke-width="1.36" stroke-linecap="butt"/>
+<line x1="233.5" y1="412.6" x2="233.5" y2="410.92" stroke="#FF453A" stroke-width="1.36" stroke-linecap="butt"/>
+<line x1="235.81" y1="412.6" x2="236.44" y2="410.92" stroke="#FF453A" stroke-width="1.36" stroke-linecap="butt"/>
+<text x="216.5" y="458" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="start" letter-spacing="-0.24" xml:space="preserve">Exploit Finder</text>
+<path d="M 351.0 428 L 357.0 434 L 351.0 440" fill="none" stroke="rgba(235,235,245,0.30)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="20" y="482" width="170.5" height="84" rx="18" ry="18" fill="#1C1C1E"/>
+<rect x="20" y="482" width="170.5" height="84" rx="18" ry="18" fill="none" stroke="rgba(84,84,88,0.65)" stroke-width="0.5"/>
+<rect x="34" y="496" width="34" height="34" rx="9" ry="9" fill="#FF9F0A" opacity="0.2"/>
+<circle cx="46.8" cy="513" r="4.62" fill="none" stroke="#FF9F0A" stroke-width="1.7"/>
+<line x1="51" y1="513" x2="60.24" y2="513" stroke="#FF9F0A" stroke-width="1.7" stroke-linecap="butt"/>
+<line x1="57.3" y1="513" x2="57.3" y2="515.94" stroke="#FF9F0A" stroke-width="1.7" stroke-linecap="butt"/>
+<line x1="59.82" y1="513" x2="59.82" y2="515.94" stroke="#FF9F0A" stroke-width="1.7" stroke-linecap="butt"/>
+<text x="34" y="550" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="start" letter-spacing="-0.24" xml:space="preserve">Login Auditor</text>
+<path d="M 168.5 520 L 174.5 526 L 168.5 532" fill="none" stroke="rgba(235,235,245,0.30)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="202.5" y="482" width="170.5" height="84" rx="18" ry="18" fill="#1C1C1E"/>
+<rect x="202.5" y="482" width="170.5" height="84" rx="18" ry="18" fill="none" stroke="rgba(84,84,88,0.65)" stroke-width="0.5"/>
+<rect x="216.5" y="496" width="34" height="34" rx="9" ry="9" fill="#BF5AF2" opacity="0.2"/>
+<rect x="223.84" y="505.44" width="19.32" height="15.12" rx="4" ry="4" fill="none" stroke="#BF5AF2" stroke-width="1.7"/>
+<path d="M 230.77 511.95 L 232.45 513.21 L 230.77 514.47" fill="none" stroke="#BF5AF2" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="233.08" y1="516.15" x2="238.54" y2="516.15" stroke="#BF5AF2" stroke-width="1.7" stroke-linecap="butt"/>
+<text x="216.5" y="550" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="start" letter-spacing="-0.24" xml:space="preserve">Sessions</text>
+<path d="M 351.0 520 L 357.0 526 L 351.0 532" fill="none" stroke="rgba(235,235,245,0.30)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="20" y="574" width="170.5" height="84" rx="18" ry="18" fill="#1C1C1E"/>
+<rect x="20" y="574" width="170.5" height="84" rx="18" ry="18" fill="none" stroke="rgba(84,84,88,0.65)" stroke-width="0.5"/>
+<rect x="34" y="588" width="34" height="34" rx="9" ry="9" fill="#FF375F" opacity="0.2"/>
+<rect x="41.34" y="602.48" width="5.04" height="5.04" rx="2.5" ry="2.5" fill="#FF375F"/>
+<rect x="55.62" y="602.48" width="5.04" height="5.04" rx="2.5" ry="2.5" fill="#FF375F"/>
+<path d="M 48.69 605.00 L 51.00 605.00" fill="none" stroke="#FF375F" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 50.79 602.06 L 50.79 607.94" fill="none" stroke="#FF375F" stroke-width="1.36" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 51.00 598.70 A 6.30 6.30 0 0 1 51.00 611.30" fill="none" stroke="#FF375F" stroke-width="1.36" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="50.58" cy="605" r="1.05" fill="#FF375F"/>
+<text x="34" y="642" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="start" letter-spacing="-0.24" xml:space="preserve">MITM</text>
+<path d="M 168.5 612 L 174.5 618 L 168.5 624" fill="none" stroke="rgba(235,235,245,0.30)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="202.5" y="574" width="170.5" height="84" rx="18" ry="18" fill="#1C1C1E"/>
+<rect x="202.5" y="574" width="170.5" height="84" rx="18" ry="18" fill="none" stroke="rgba(84,84,88,0.65)" stroke-width="0.5"/>
+<rect x="216.5" y="588" width="34" height="34" rx="9" ry="9" fill="#BF5AF2" opacity="0.2"/>
+<line x1="226.36" y1="597.86" x2="233.5" y2="607.1" stroke="#BF5AF2" stroke-width="1.275" stroke-linecap="butt"/>
+<line x1="231.19" y1="597.86" x2="233.5" y2="607.1" stroke="#BF5AF2" stroke-width="1.275" stroke-linecap="butt"/>
+<line x1="235.81" y1="597.86" x2="233.5" y2="607.1" stroke="#BF5AF2" stroke-width="1.275" stroke-linecap="butt"/>
+<line x1="240.64" y1="597.86" x2="233.5" y2="607.1" stroke="#BF5AF2" stroke-width="1.275" stroke-linecap="butt"/>
+<line x1="226.36" y1="597.86" x2="240.64" y2="597.86" stroke="#BF5AF2" stroke-width="1.7" stroke-linecap="butt"/>
+<circle cx="233.5" cy="611.3" r="2.31" fill="#BF5AF2"/>
+<text x="216.5" y="642" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="start" letter-spacing="-0.24" xml:space="preserve">Password Sniffer</text>
+<path d="M 351.0 612 L 357.0 618 L 351.0 624" fill="none" stroke="rgba(235,235,245,0.30)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="20" y="666" width="170.5" height="84" rx="18" ry="18" fill="#1C1C1E"/>
+<rect x="20" y="666" width="170.5" height="84" rx="18" ry="18" fill="none" stroke="rgba(84,84,88,0.65)" stroke-width="0.5"/>
+<rect x="34" y="680" width="34" height="34" rx="9" ry="9" fill="#AC8E68" opacity="0.2"/>
+<circle cx="43.86" cy="697.42" r="1.155" fill="#AC8E68"/>
+<line x1="45.12" y1="697.84" x2="50.16" y2="697.84" stroke="#AC8E68" stroke-width="1.36" stroke-linecap="butt"/>
+<line x1="45.12" y1="696.16" x2="50.16" y2="692.8" stroke="#AC8E68" stroke-width="1.36" stroke-linecap="butt"/>
+<line x1="50.16" y1="692.8" x2="57.3" y2="692.8" stroke="#AC8E68" stroke-width="1.36" stroke-linecap="butt"/>
+<circle cx="57.3" cy="692.8" r="1.155" fill="#AC8E68"/>
+<line x1="50.16" y1="697.84" x2="57.3" y2="697.84" stroke="#AC8E68" stroke-width="1.36" stroke-linecap="butt"/>
+<circle cx="57.3" cy="697.84" r="1.155" fill="#AC8E68"/>
+<line x1="55.725" y1="699.415" x2="58.875" y2="696.265" stroke="#AC8E68" stroke-width="1.53" stroke-linecap="butt"/>
+<text x="34" y="734" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="start" letter-spacing="-0.24" xml:space="preserve">DNS Spoofing</text>
+<path d="M 168.5 704 L 174.5 710 L 168.5 716" fill="none" stroke="rgba(235,235,245,0.30)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="202.5" y="666" width="170.5" height="84" rx="18" ry="18" fill="#1C1C1E"/>
+<rect x="202.5" y="666" width="170.5" height="84" rx="18" ry="18" fill="none" stroke="rgba(84,84,88,0.65)" stroke-width="0.5"/>
+<rect x="216.5" y="680" width="34" height="34" rx="9" ry="9" fill="#64D2FF" opacity="0.2"/>
+<path d="M 227.2 695.74 L 227.2 703.3 L 239.8 703.3 L 239.8 695.74 Z" fill="none" stroke="#64D2FF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 229.30 695.74 A 4.20 4.20 0 0 1 235.60 692.10" fill="none" stroke="#64D2FF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="229.3" y1="695.74" x2="229.3" y2="693.64" stroke="#64D2FF" stroke-width="1.7" stroke-linecap="butt"/>
+<line x1="239.8" y1="695.74" x2="242.32" y2="692.38" stroke="#64D2FF" stroke-width="1.7" stroke-linecap="butt"/>
+<circle cx="233.5" cy="699.52" r="1.155" fill="#64D2FF"/>
+<text x="216.5" y="734" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="start" letter-spacing="-0.24" xml:space="preserve">Hijacker</text>
+<path d="M 351.0 704 L 357.0 710 L 351.0 716" fill="none" stroke="rgba(235,235,245,0.30)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="20" y="758" width="170.5" height="84" rx="18" ry="18" fill="#1C1C1E"/>
+<rect x="20" y="758" width="170.5" height="84" rx="18" ry="18" fill="none" stroke="rgba(84,84,88,0.65)" stroke-width="0.5"/>
+<rect x="34" y="772" width="34" height="34" rx="9" ry="9" fill="#63E6E2" opacity="0.2"/>
+<path d="M 51.00 784.38 L 55.62 786.69 L 55.62 791.31 L 51.00 793.62 L 46.38 791.31 L 46.38 786.69 Z" fill="none" stroke="#63E6E2" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 46.38 786.69 L 51.00 789.00 L 55.62 786.69" fill="none" stroke="#63E6E2" stroke-width="1.36" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="51" y1="789" x2="51" y2="798.24" stroke="#63E6E2" stroke-width="1.36" stroke-linecap="butt"/>
+<text x="34" y="826" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="start" letter-spacing="-0.24" xml:space="preserve">Packet Forger</text>
+<path d="M 168.5 796 L 174.5 802 L 168.5 808" fill="none" stroke="rgba(235,235,245,0.30)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="202.5" y="758" width="170.5" height="84" rx="18" ry="18" fill="#1C1C1E"/>
+<rect x="202.5" y="758" width="170.5" height="84" rx="18" ry="18" fill="none" stroke="rgba(84,84,88,0.65)" stroke-width="0.5"/>
+<rect x="216.5" y="772" width="34" height="34" rx="9" ry="9" fill="#FFD60A" opacity="0.2"/>
+<path d="M 229.86 791.52 A 4.20 4.20 0 0 1 237.14 791.52" fill="none" stroke="#FFD60A" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 226.95 789.84 A 7.56 7.56 0 0 1 240.05 789.84" fill="none" stroke="#FFD60A" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 224.04 788.16 A 10.92 10.92 0 0 1 242.96 788.16" fill="none" stroke="#FFD60A" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="233.5" cy="794.46" r="1.05" fill="#FFD60A"/>
+<line x1="224.68" y1="780.18" x2="242.32" y2="797.82" stroke="#FFD60A" stroke-width="2.125" stroke-linecap="butt"/>
+<text x="216.5" y="826" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="start" letter-spacing="-0.24" xml:space="preserve">Wi-Fi Kill</text>
+<path d="M 351.0 796 L 357.0 802 L 351.0 808" fill="none" stroke="rgba(235,235,245,0.30)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="20" y="670" width="353" height="50" rx="15" ry="15" fill="#2C2C2E"/>
+<path d="M 42.02 695 C 46.2 690.06 53.8 690.06 57.98 695 C 53.8 699.94 46.2 699.94 42.02 695 Z" fill="none" stroke="#FFFFFF" stroke-width="1.425" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="50" cy="695" r="2.47" fill="none" stroke="#FFFFFF" stroke-width="1.425"/>
+<text x="70" y="700" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="start" letter-spacing="0.1" xml:space="preserve">Deep Scan All Modules</text>
+</svg>

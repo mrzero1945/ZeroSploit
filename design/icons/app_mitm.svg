@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.1" inkscape:version="1.4.2" width="1024pt" height="1024pt" viewBox="0 0 1024 1024">
+<title id="tt">ZEROSPLOIT</title>
+<defs id="zsdefs"><linearGradient id="g_mitm" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FF738F"/><stop offset="0.45" stop-color="#FF375F"/><stop offset="1" stop-color="#9E223A"/></linearGradient><filter id="sh1" x="-60%" y="-60%" width="220%" height="220%" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceAlpha" stdDeviation="30.72" result="b"/><feOffset in="b" dx="0" dy="12.288" result="o"/><feFlood flood-color="#000000" flood-opacity="0.42"/><feComposite in2="o" operator="in" result="s"/><feMerge><feMergeNode in="s"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="h_mitm" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.3"/><stop offset="0.55" stop-color="#FFFFFF" stop-opacity="0.03"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0.0"/></linearGradient></defs>
+<rect x="0" y="0" width="1024" height="1024" rx="229.069" ry="229.069" fill="url(#g_mitm)" filter="url(#sh1)"/>
+<rect x="20.48" y="20.48" width="983.04" height="983.04" rx="229.069" ry="229.069" fill="url(#h_mitm)"/>
+<rect x="276.48" y="450.56" width="122.88" height="122.88" rx="2.5" ry="2.5" fill="#FFFFFF"/>
+<rect x="624.64" y="450.56" width="122.88" height="122.88" rx="2.5" ry="2.5" fill="#FFFFFF"/>
+<path d="M 455.68 512.00 L 512.00 512.00" fill="none" stroke="#FFFFFF" stroke-width="41.472" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 506.88 440.32 L 506.88 583.68" fill="none" stroke="#FFFFFF" stroke-width="33.177600000000005" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 512.00 358.40 A 153.60 153.60 0 0 1 512.00 665.60" fill="none" stroke="#FFFFFF" stroke-width="33.177600000000005" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="501.76" cy="512" r="25.6" fill="#FFFFFF"/>
+</svg>

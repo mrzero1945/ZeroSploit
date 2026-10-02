@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Design.getDrawable() resolves module and tab icons by name at runtime with
+  Resources.getIdentifier(), so the resource shrinker cannot see any reference
+  to them. Without this file `shrinkResources true` strips every gl_*.png and
+  the UI silently renders missing icons in release builds while debug (which
+  does not shrink) looks fine.
+-->
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:keep="@drawable/gl_*" />

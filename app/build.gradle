@@ -1,0 +1,126 @@
+import java.util.Properties
+
+plugins {
+    id 'com.android.application'
+}
+
+// ---------------------------------------------------------------------------
+// Release signing. Create keystore.properties (see tools/make-keystore.sh) to
+// get a properly signed release build; without it we fall back to the debug key
+// so `assembleRelease` still produces an installable APK.
+// ---------------------------------------------------------------------------
+def ksFile = rootProject.file('keystore.properties')
+def ks = new Properties()
+if (ksFile.exists()) ksFile.withInputStream { ks.load(it) }
+
+android {
+    namespace 'com.zerosploit'
+    compileSdk 35
+    ndkVersion '27.0.12077973'
+
+    defaultConfig {
+        applicationId 'com.zerosploit'
+        minSdk 24
+        targetSdk 35
+        versionCode 1
+        versionName '1.0.0'
+
+        ndk {
+            abiFilters 'arm64-v8a', 'armeabi-v7a', 'x86_64'
+        }
+        externalNativeBuild {
+            cmake {
+                arguments '-DANDROID_STL=c++_static',
+                          '-DANDROID_ARM_NEON=TRUE',
+                          '-DCMAKE_BUILD_TYPE=Release'
+                cppFlags '-std=c++20', '-O2', '-fno-rtti', '-fno-exceptions',
+                         '-Wall', '-Wextra', '-Wno-unused-parameter'
+            }
+        }
+    }
+
+    signingConfigs {
+        if (ks.getProperty('storeFile')) {
+            release {
+                storeFile rootProject.file(ks.getProperty('storeFile'))
+                storePassword ks.getProperty('storePassword')
+                keyAlias ks.getProperty('keyAlias')
+                keyPassword ks.getProperty('keyPassword')
+                enableV1Signing true
+                enableV2Signing true
+                enableV3Signing true
+            }
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'),
+                          'proguard-rules.pro'
+            if (ks.getProperty('storeFile')) {
+                signingConfig signingConfigs.release
+            }
+        }
+        debug {
+            applicationIdSuffix '.debug'
+            versionNameSuffix '-debug'
+        }
+    }
+
+    externalNativeBuild {
+        cmake {
+            path 'src/main/cpp/CMakeLists.txt'
+            version '3.22.1'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    // The privileged helper is a real executable, so it is shipped as an asset
+    // and unpacked to filesDir on first launch. CMake writes one copy per ABI
+    // into this directory as a post-build step.
+    sourceSets {
+        main {
+            assets.srcDirs += "$buildDir/generated/zsrawAssets"
+        }
+    }
+    packaging {
+        jniLibs {
+            useLegacyPackaging false
+        }
+        resources {
+            excludes += ['META-INF/*.kotlin_module', 'META-INF/DEPENDENCIES']
+        }
+    }
+
+    // ---- Apple-style dark theme, no framework action bar (we draw our own) --
+    applicationVariants.configureEach { variant ->
+        variant.outputs.configureEach {
+            output -> output.outputFileName = "ZeroSploit-${variant.name}-${variant.versionName}.apk".toString()
+        }
+    }
+}
+
+// CMake generates the helper asset as a post-build step of the native build,
+// so the asset merge has to wait for it. Without this, a *clean* build merges
+// assets before zsraw exists and produces an APK whose root features silently
+// do nothing.
+tasks.configureEach { t ->
+    if (t.name.startsWith('merge') && t.name.endsWith('Assets')) {
+        t.dependsOn(tasks.matching { it.name.startsWith('buildCMake') })
+    }
+}
+
+dependencies {
+    // Only what the theme needs: Material3 supplies Theme.Material3.Dark, and
+    // the whole UI is built from framework widgets, so no RecyclerView or
+    // ConstraintLayout is required.
+    implementation 'androidx.appcompat:appcompat:1.7.1'
+    implementation 'com.google.android.material:material:1.12.0'
+    implementation 'androidx.core:core:1.13.1'
+}

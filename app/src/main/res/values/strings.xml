@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZeroSploit</string>
+    <string name="tab_scan">Scan</string>
+    <string name="tab_targets">Targets</string>
+    <string name="tab_sessions">Sessions</string>
+    <string name="tab_logs">Logs</string>
+    <string name="tab_settings">Settings</string>
+    <string name="chan_scan">zero-sploit-scan</string>
+    <string name="notif_running">ZeroSploit scan running</string>
+</resources>

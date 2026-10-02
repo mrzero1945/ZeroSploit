@@ -1,0 +1,46 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Keep the wrapper itself -- it is required to build
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# Machine-specific SDK location
+local.properties
+
+# Android build outputs
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+bin/
+
+# NDK / CMake
+.cxx/
+.externalNativeBuild/
+CMakeFiles/
+*.o
+*.so
+*.a
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.hprof
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Python bytecode from design tooling
+__pycache__/
+*.py[cod]
+
+# Downloaded SDK archives
+android-*.zip

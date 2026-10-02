@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.1" inkscape:version="1.4.2" width="393pt" height="852pt" viewBox="0 0 393 852">
+<title id="tt">ZEROSPLOIT</title>
+<sodipodi:namedview id="nv" inkscape:document-units="pt" pagecolor="#000000" bordercolor="#666666" inkscape:pagecheckerboard="false" inkscape:zoom="0.5" inkscape:cx="196" inkscape:cy="426"/>
+<defs id="zsdefs"><linearGradient id="grad1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1C1C1E" stop-opacity="0.0"/><stop offset="0.5" stop-color="#1C1C1E" stop-opacity="0.92"/><stop offset="1" stop-color="#1C1C1E" stop-opacity="1.0"/></linearGradient><linearGradient id="grad2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2C2C2E" stop-opacity="0.95"/><stop offset="1" stop-color="#2C2C2E" stop-opacity="0.75"/></linearGradient><filter id="sh3" x="-60%" y="-60%" width="220%" height="220%" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceAlpha" stdDeviation="3" result="b"/><feOffset in="b" dx="0" dy="1" result="o"/><feFlood flood-color="#000000" flood-opacity="0.35"/><feComposite in2="o" operator="in" result="s"/><feMerge><feMergeNode in="s"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="0" y="0" width="393" height="852" rx="0" ry="0" fill="#000000"/>
+<text x="29" y="35" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="start" letter-spacing="0" xml:space="preserve">9:41</text>
+<rect x="126" y="11" width="141" height="37" rx="19" ry="19" fill="#000"/>
+<circle cx="213" cy="29.5" r="4.5" fill="#1C1C1E"/>
+<rect x="288" y="31" width="3.4" height="4" rx="1.1" ry="1.1" fill="#FFFFFF"/>
+<rect x="293" y="28.5" width="3.4" height="6.5" rx="1.1" ry="1.1" fill="#FFFFFF"/>
+<rect x="298" y="26" width="3.4" height="9" rx="1.1" ry="1.1" fill="#FFFFFF"/>
+<rect x="303" y="23.5" width="3.4" height="11.5" rx="1.1" ry="1.1" fill="#FFFFFF"/>
+<path d="M 325.8 27.5 A 6.4 6.4 0 0 1 332.2 27.5" fill="none" stroke="#FFFFFF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 322.4 27.7 A 13.2 13.2 0 0 1 335.6 27.5" fill="none" stroke="#FFFFFF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 319 27.9 A 20 20 0 0 1 339 27.5" fill="none" stroke="#FFFFFF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="329" cy="32.2" r="1.5" fill="#FFFFFF"/>
+<rect x="340" y="24" width="22" height="11" rx="3.4" ry="3.4" fill="none" stroke="#FFFFFF" stroke-width="1" opacity="0.4"/>
+<rect x="342" y="26" width="14" height="7" rx="2" ry="2" fill="#FFFFFF"/>
+<rect x="363.5" y="27.4" width="1.6" height="4.2" rx="0.8" ry="0.8" fill="#FFFFFF" opacity="0.4"/>
+<path d="M 19 22 L 11 30 L 19 38" fill="none" stroke="#0A84FF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="25" y="35" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="17" font-weight="400" fill="#0A84FF" text-anchor="start" letter-spacing="-0.41" xml:space="preserve">Target</text>
+<text x="20" y="82" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="34" font-weight="700" fill="#FFFFFF" text-anchor="start" letter-spacing="-0.4" xml:space="preserve">Port Scanner</text>
+<text x="20" y="100" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="13" font-weight="400" fill="rgba(235,235,245,0.60)" text-anchor="start" letter-spacing="-0.08" xml:space="preserve">192.168.1.1 · 1-65535</text>
+<rect x="0" y="763" width="393" height="89" rx="0" ry="0" fill="#000000"/>
+<rect x="0" y="769" width="393" height="49" rx="0" ry="0" fill="url(#grad1)"/>
+<line x1="0" y1="769" x2="393" y2="769" stroke="rgba(84,84,88,0.65)" stroke-width="0.5" stroke-linecap="butt"/>
+<circle cx="39.3" cy="789" r="8.58" fill="none" stroke="rgba(235,235,245,0.30)" stroke-width="1.6"/>
+<circle cx="39.3" cy="789" r="3.96" fill="none" stroke="rgba(235,235,245,0.30)" stroke-width="1.6" opacity="0.75"/>
+<line x1="39.3" y1="789" x2="45.46" y2="782.84" stroke="rgba(235,235,245,0.30)" stroke-width="1.6" stroke-linecap="butt"/>
+<text x="39.3" y="811" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="11" font-weight="500" fill="rgba(235,235,245,0.30)" text-anchor="middle" letter-spacing="0.1" xml:space="preserve">Scan</text>
+<rect x="108.55" y="780.75" width="10.45" height="11.55" rx="2" ry="2" fill="none" stroke="#0A84FF" stroke-width="1.6"/>
+<rect x="119.55" y="785.7" width="7.7" height="13.2" rx="2" ry="2" fill="none" stroke="#0A84FF" stroke-width="1.6"/>
+<text x="117.9" y="811" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="11" font-weight="500" fill="#0A84FF" text-anchor="middle" letter-spacing="0.1" xml:space="preserve">Targets</text>
+<rect x="186.6" y="780.75" width="19.8" height="16.5" rx="2.6" ry="2.6" fill="none" stroke="rgba(235,235,245,0.30)" stroke-width="1.6"/>
+<polygon points="191.55,786.8 195.95,789.88 191.55,792.96" fill="none" stroke="rgba(235,235,245,0.30)" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="197.05" y1="792.96" x2="202" y2="792.96" stroke="rgba(235,235,245,0.30)" stroke-width="1.6" stroke-linecap="butt"/>
+<text x="196.5" y="811" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="11" font-weight="500" fill="rgba(235,235,245,0.30)" text-anchor="middle" letter-spacing="0.1" xml:space="preserve">Sessions</text>
+<line x1="265.2" y1="797.25" x2="265.2" y2="782.4" stroke="rgba(235,235,245,0.30)" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="270.15" y1="797.25" x2="270.15" y2="789" stroke="rgba(235,235,245,0.30)" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="275.1" y1="797.25" x2="275.1" y2="777.45" stroke="rgba(235,235,245,0.30)" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="280.05" y1="797.25" x2="280.05" y2="786.525" stroke="rgba(235,235,245,0.30)" stroke-width="1.6" stroke-linecap="butt"/>
+<line x1="285" y1="797.25" x2="285" y2="780.75" stroke="rgba(235,235,245,0.30)" stroke-width="1.6" stroke-linecap="butt"/>
+<text x="275.1" y="811" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="11" font-weight="500" fill="rgba(235,235,245,0.30)" text-anchor="middle" letter-spacing="0.1" xml:space="preserve">Logs</text>
+<circle cx="353.7" cy="789" r="4.62" fill="none" stroke="rgba(235,235,245,0.30)" stroke-width="1.7"/>
+<line x1="360.52" y1="789" x2="363.6" y2="789" stroke="rgba(235,235,245,0.30)" stroke-width="1.5" stroke-linecap="butt"/>
+<line x1="358.522" y1="793.822" x2="360.7" y2="796" stroke="rgba(235,235,245,0.30)" stroke-width="1.5" stroke-linecap="butt"/>
+<line x1="353.7" y1="795.82" x2="353.7" y2="798.9" stroke="rgba(235,235,245,0.30)" stroke-width="1.5" stroke-linecap="butt"/>
+<line x1="348.878" y1="793.822" x2="346.7" y2="796" stroke="rgba(235,235,245,0.30)" stroke-width="1.5" stroke-linecap="butt"/>
+<line x1="346.88" y1="789" x2="343.8" y2="789" stroke="rgba(235,235,245,0.30)" stroke-width="1.5" stroke-linecap="butt"/>
+<line x1="348.878" y1="784.178" x2="346.7" y2="782" stroke="rgba(235,235,245,0.30)" stroke-width="1.5" stroke-linecap="butt"/>
+<line x1="353.7" y1="782.18" x2="353.7" y2="779.1" stroke="rgba(235,235,245,0.30)" stroke-width="1.5" stroke-linecap="butt"/>
+<line x1="358.522" y1="784.178" x2="360.7" y2="782" stroke="rgba(235,235,245,0.30)" stroke-width="1.5" stroke-linecap="butt"/>
+<text x="353.7" y="811" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="11" font-weight="500" fill="rgba(235,235,245,0.30)" text-anchor="middle" letter-spacing="0.1" xml:space="preserve">Settings</text>
+<rect x="129.5" y="840" width="134" height="5" rx="2.5" ry="2.5" fill="#FFFFFF" opacity="0.92"/>
+<rect x="20" y="128" width="353" height="104" rx="18" ry="18" fill="#1C1C1E"/>
+<circle cx="66" cy="180" r="32" fill="none" stroke="rgba(120,120,128,0.24)" stroke-width="5"/>
+<circle transform="rotate(-90 66 180)" cx="66" cy="180" r="32" fill="none" stroke="#0A84FF" stroke-width="5" stroke-dasharray="136.72 201.06"/>
+<text x="66" y="181" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="-0.3" xml:space="preserve">68</text>
+<text x="66" y="196" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="11" font-weight="400" fill="rgba(235,235,245,0.60)" text-anchor="middle" letter-spacing="0.06" xml:space="preserve">TCP</text>
+<text x="114" y="162" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="11" font-weight="400" fill="#0A84FF" text-anchor="start" letter-spacing="1.0" xml:space="preserve">SCANNING</text>
+<text x="114" y="182" font-family="'SF Mono',ui-monospace,'SF Mono Text',Menlo,'Roboto Mono','DejaVu Sans Mono',monospace" font-size="14" font-weight="400" fill="#FFFFFF" text-anchor="start" letter-spacing="0.2" xml:space="preserve">44,502 / 65,535</text>
+<text x="114" y="200" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="13" font-weight="400" fill="rgba(235,235,245,0.60)" text-anchor="start" letter-spacing="-0.08" xml:space="preserve">1,284 threads · 32 ms avg</text>
+<text x="20" y="246" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="11" font-weight="400" fill="rgba(235,235,245,0.60)" text-anchor="start" letter-spacing="0.8" xml:space="preserve">PROFILES</text>
+<rect x="20" y="256" width="353" height="32" rx="12" ry="12" fill="rgba(118,118,128,0.12)"/>
+<rect x="110.25" y="258" width="84.25" height="28" rx="9" ry="9" fill="url(#grad2)" filter="url(#sh3)"/>
+<text x="64.125" y="276.5" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="rgba(235,235,245,0.60)" text-anchor="middle" letter-spacing="0" xml:space="preserve">Top 100</text>
+<text x="152.375" y="276.5" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle" letter-spacing="0" xml:space="preserve">Top 1000</text>
+<text x="240.625" y="276.5" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="rgba(235,235,245,0.60)" text-anchor="middle" letter-spacing="0" xml:space="preserve">Full</text>
+<text x="328.875" y="276.5" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="13" font-weight="600" fill="rgba(235,235,245,0.60)" text-anchor="middle" letter-spacing="0" xml:space="preserve">Custom</text>
+<text x="20" y="288" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="11" font-weight="400" fill="rgba(235,235,245,0.60)" text-anchor="start" letter-spacing="0.6" xml:space="preserve">RESULTS  ·  9 OPEN</text>
+<rect x="20" y="318" width="353" height="250" rx="18" ry="18" fill="#1C1C1E"/>
+<g transform="translate(20,323.00)">
+<text x="14" y="22" font-family="'SF Mono',ui-monospace,'SF Mono Text',Menlo,'Roboto Mono','DejaVu Sans Mono',monospace" font-size="13" font-weight="400" fill="#FFFFFF" text-anchor="start" letter-spacing="0.2" xml:space="preserve">22</text>
+<text x="58" y="22" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="13" font-weight="400" fill="#30D158" text-anchor="start" letter-spacing="-0.08" xml:space="preserve">ssh</text>
+<text x="128" y="22" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="13" font-weight="400" fill="rgba(235,235,245,0.60)" text-anchor="start" letter-spacing="-0.08" xml:space="preserve">OpenSSH 8.4p1 Raspbian</text>
+<rect x="300.6" y="8" width="38.4" height="18" rx="9" ry="9" fill="#30D158" opacity="0.2"/>
+<text x="319.8" y="20.8" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#30D158" text-anchor="middle" letter-spacing="0.1" xml:space="preserve">open</text>
+<circle cx="281" cy="17" r="3" fill="#30D158"/>
+</g>
+<line x1="36" y1="363" x2="357" y2="363" stroke="rgba(84,84,88,0.65)" stroke-width="0.5" stroke-linecap="butt"/>
+<g transform="translate(20,363.00)">
+<text x="14" y="22" font-family="'SF Mono',ui-monospace,'SF Mono Text',Menlo,'Roboto Mono','DejaVu Sans Mono',monospace" font-size="13" font-weight="400" fill="#FFFFFF" text-anchor="start" letter-spacing="0.2" xml:space="preserve">23</text>
+<text x="58" y="22" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="13" font-weight="400" fill="#30D158" text-anchor="start" letter-spacing="-0.08" xml:space="preserve">telnet</text>
+<text x="128" y="22" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="13" font-weight="400" fill="rgba(235,235,245,0.60)" text-anchor="start" letter-spacing="-0.08" xml:space="preserve">BusyBox v1.31.1 telnetd</text>
+<rect x="300.6" y="8" width="38.4" height="18" rx="9" ry="9" fill="#30D158" opacity="0.2"/>
+<text x="319.8" y="20.8" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#30D158" text-anchor="middle" letter-spacing="0.1" xml:space="preserve">open</text>
+<circle cx="281" cy="17" r="3" fill="#30D158"/>
+</g>
+<line x1="36" y1="403" x2="357" y2="403" stroke="rgba(84,84,88,0.65)" stroke-width="0.5" stroke-linecap="butt"/>
+<g transform="translate(20,403.00)">
+<text x="14" y="22" font-family="'SF Mono',ui-monospace,'SF Mono Text',Menlo,'Roboto Mono','DejaVu Sans Mono',monospace" font-size="13" font-weight="400" fill="#FFFFFF" text-anchor="start" letter-spacing="0.2" xml:space="preserve">53</text>
+<text x="58" y="22" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="13" font-weight="400" fill="#30D158" text-anchor="start" letter-spacing="-0.08" xml:space="preserve">domain</text>
+<text x="128" y="22" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="13" font-weight="400" fill="rgba(235,235,245,0.60)" text-anchor="start" letter-spacing="-0.08" xml:space="preserve">dnsmasq 2.86</text>
+<rect x="300.6" y="8" width="38.4" height="18" rx="9" ry="9" fill="#30D158" opacity="0.2"/>
+<text x="319.8" y="20.8" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#30D158" text-anchor="middle" letter-spacing="0.1" xml:space="preserve">open</text>
+<circle cx="281" cy="17" r="3" fill="#30D158"/>
+</g>
+<line x1="36" y1="443" x2="357" y2="443" stroke="rgba(84,84,88,0.65)" stroke-width="0.5" stroke-linecap="butt"/>
+<g transform="translate(20,443.00)">
+<text x="14" y="22" font-family="'SF Mono',ui-monospace,'SF Mono Text',Menlo,'Roboto Mono','DejaVu Sans Mono',monospace" font-size="13" font-weight="400" fill="#FFFFFF" text-anchor="start" letter-spacing="0.2" xml:space="preserve">80</text>
+<text x="58" y="22" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="13" font-weight="400" fill="#30D158" text-anchor="start" letter-spacing="-0.08" xml:space="preserve">http</text>
+<text x="128" y="22" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="13" font-weight="400" fill="rgba(235,235,245,0.60)" text-anchor="start" letter-spacing="-0.08" xml:space="preserve">lighttpd/1.4.53</text>
+<rect x="300.6" y="8" width="38.4" height="18" rx="9" ry="9" fill="#30D158" opacity="0.2"/>
+<text x="319.8" y="20.8" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#30D158" text-anchor="middle" letter-spacing="0.1" xml:space="preserve">open</text>
+<circle cx="281" cy="17" r="3" fill="#30D158"/>
+</g>
+<line x1="36" y1="483" x2="357" y2="483" stroke="rgba(84,84,88,0.65)" stroke-width="0.5" stroke-linecap="butt"/>
+<g transform="translate(20,483.00)">
+<text x="14" y="22" font-family="'SF Mono',ui-monospace,'SF Mono Text',Menlo,'Roboto Mono','DejaVu Sans Mono',monospace" font-size="13" font-weight="400" fill="#FFFFFF" text-anchor="start" letter-spacing="0.2" xml:space="preserve">443</text>
+<text x="58" y="22" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="13" font-weight="400" fill="#30D158" text-anchor="start" letter-spacing="-0.08" xml:space="preserve">http</text>
+<text x="128" y="22" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="13" font-weight="400" fill="rgba(235,235,245,0.60)" text-anchor="start" letter-spacing="-0.08" xml:space="preserve">lighttpd/1.4.53 (TLS)</text>
+<rect x="300.6" y="8" width="38.4" height="18" rx="9" ry="9" fill="#30D158" opacity="0.2"/>
+<text x="319.8" y="20.8" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#30D158" text-anchor="middle" letter-spacing="0.1" xml:space="preserve">open</text>
+<circle cx="281" cy="17" r="3" fill="#30D158"/>
+</g>
+<line x1="36" y1="523" x2="357" y2="523" stroke="rgba(84,84,88,0.65)" stroke-width="0.5" stroke-linecap="butt"/>
+<g transform="translate(20,523.00)">
+<text x="14" y="22" font-family="'SF Mono',ui-monospace,'SF Mono Text',Menlo,'Roboto Mono','DejaVu Sans Mono',monospace" font-size="13" font-weight="400" fill="#FFFFFF" text-anchor="start" letter-spacing="0.2" xml:space="preserve">139</text>
+<text x="58" y="22" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="13" font-weight="400" fill="#30D158" text-anchor="start" letter-spacing="-0.08" xml:space="preserve">netbios</text>
+<text x="128" y="22" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="13" font-weight="400" fill="rgba(235,235,245,0.60)" text-anchor="start" letter-spacing="-0.08" xml:space="preserve">Samba 4.11.12</text>
+<rect x="300.6" y="8" width="38.4" height="18" rx="9" ry="9" fill="#30D158" opacity="0.2"/>
+<text x="319.8" y="20.8" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#30D158" text-anchor="middle" letter-spacing="0.1" xml:space="preserve">open</text>
+<circle cx="281" cy="17" r="3" fill="#30D158"/>
+</g>
+<rect x="20" y="582" width="353" height="90" rx="18" ry="18" fill="#1C1C1E"/>
+<g transform="translate(20,587.00)">
+<text x="14" y="22" font-family="'SF Mono',ui-monospace,'SF Mono Text',Menlo,'Roboto Mono','DejaVu Sans Mono',monospace" font-size="13" font-weight="400" fill="#FFFFFF" text-anchor="start" letter-spacing="0.2" xml:space="preserve">445</text>
+<text x="58" y="22" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="13" font-weight="400" fill="#30D158" text-anchor="start" letter-spacing="-0.08" xml:space="preserve">smb</text>
+<text x="128" y="22" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="13" font-weight="400" fill="rgba(235,235,245,0.60)" text-anchor="start" letter-spacing="-0.08" xml:space="preserve">Samba 4.11.12</text>
+<rect x="300.6" y="8" width="38.4" height="18" rx="9" ry="9" fill="#30D158" opacity="0.2"/>
+<text x="319.8" y="20.8" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#30D158" text-anchor="middle" letter-spacing="0.1" xml:space="preserve">open</text>
+<circle cx="281" cy="17" r="3" fill="#30D158"/>
+</g>
+<line x1="36" y1="627" x2="357" y2="627" stroke="rgba(84,84,88,0.65)" stroke-width="0.5" stroke-linecap="butt"/>
+<g transform="translate(20,627.00)">
+<text x="14" y="22" font-family="'SF Mono',ui-monospace,'SF Mono Text',Menlo,'Roboto Mono','DejaVu Sans Mono',monospace" font-size="13" font-weight="400" fill="#FFFFFF" text-anchor="start" letter-spacing="0.2" xml:space="preserve">548</text>
+<text x="58" y="22" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="13" font-weight="400" fill="#30D158" text-anchor="start" letter-spacing="-0.08" xml:space="preserve">afp</text>
+<text x="128" y="22" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="13" font-weight="400" fill="rgba(235,235,245,0.60)" text-anchor="start" letter-spacing="-0.08" xml:space="preserve">Netatalk 3.1.13</text>
+<rect x="300.6" y="8" width="38.4" height="18" rx="9" ry="9" fill="#30D158" opacity="0.2"/>
+<text x="319.8" y="20.8" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="10" font-weight="600" fill="#30D158" text-anchor="middle" letter-spacing="0.1" xml:space="preserve">open</text>
+<circle cx="281" cy="17" r="3" fill="#30D158"/>
+</g>
+</svg>

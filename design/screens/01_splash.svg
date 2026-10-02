@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.1" inkscape:version="1.4.2" width="393pt" height="852pt" viewBox="0 0 393 852">
+<title id="tt">ZEROSPLOIT</title>
+<sodipodi:namedview id="nv" inkscape:document-units="pt" pagecolor="#000000" bordercolor="#666666" inkscape:pagecheckerboard="false" inkscape:zoom="0.5" inkscape:cx="196" inkscape:cy="426"/>
+<defs id="zsdefs"><linearGradient id="wash" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A1A3A" stop-opacity="0.85"/><stop offset="0.45" stop-color="#000000" stop-opacity="0.0"/><stop offset="1" stop-color="#000000" stop-opacity="0.0"/></linearGradient></defs>
+<rect x="0" y="0" width="393" height="852" rx="0" ry="0" fill="#000000"/>
+<rect x="0" y="0" width="393" height="520" rx="0" ry="0" fill="url(#wash)"/>
+<text x="29" y="35" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="15" font-weight="600" fill="#FFFFFF" text-anchor="start" letter-spacing="0" xml:space="preserve">9:41</text>
+<rect x="126" y="11" width="141" height="37" rx="19" ry="19" fill="#000"/>
+<circle cx="213" cy="29.5" r="4.5" fill="#1C1C1E"/>
+<rect x="288" y="31" width="3.4" height="4" rx="1.1" ry="1.1" fill="#FFFFFF"/>
+<rect x="293" y="28.5" width="3.4" height="6.5" rx="1.1" ry="1.1" fill="#FFFFFF"/>
+<rect x="298" y="26" width="3.4" height="9" rx="1.1" ry="1.1" fill="#FFFFFF"/>
+<rect x="303" y="23.5" width="3.4" height="11.5" rx="1.1" ry="1.1" fill="#FFFFFF"/>
+<path d="M 325.8 27.5 A 6.4 6.4 0 0 1 332.2 27.5" fill="none" stroke="#FFFFFF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 322.4 27.7 A 13.2 13.2 0 0 1 335.6 27.5" fill="none" stroke="#FFFFFF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 319 27.9 A 20 20 0 0 1 339 27.5" fill="none" stroke="#FFFFFF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="329" cy="32.2" r="1.5" fill="#FFFFFF"/>
+<rect x="340" y="24" width="22" height="11" rx="3.4" ry="3.4" fill="none" stroke="#FFFFFF" stroke-width="1" opacity="0.4"/>
+<rect x="342" y="26" width="14" height="7" rx="2" ry="2" fill="#FFFFFF"/>
+<rect x="363.5" y="27.4" width="1.6" height="4.2" rx="0.8" ry="0.8" fill="#FFFFFF" opacity="0.4"/>
+<circle cx="196.5" cy="330" r="92" fill="none" stroke="#0A84FF" stroke-width="1.2" opacity="0.16"/>
+<circle cx="196.5" cy="330" r="70" fill="none" stroke="#0A84FF" stroke-width="1.6" opacity="0.3"/>
+<circle cx="196.5" cy="330" r="48" fill="none" stroke="#0A84FF" stroke-width="2.0" opacity="0.55"/>
+<line x1="296.5" y1="330" x2="304.5" y2="330" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="295.644" y1="343.053" x2="303.576" y2="344.097" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="293.093" y1="355.882" x2="300.82" y2="357.952" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="288.888" y1="368.268" x2="296.279" y2="371.33" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="283.103" y1="380" x2="290.031" y2="384" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="275.835" y1="390.876" x2="282.182" y2="395.746" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="267.211" y1="400.711" x2="272.868" y2="406.368" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="257.376" y1="409.335" x2="262.246" y2="415.682" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="246.5" y1="416.603" x2="250.5" y2="423.531" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="234.768" y1="422.388" x2="237.83" y2="429.779" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="222.382" y1="426.593" x2="224.452" y2="434.32" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="209.553" y1="429.144" x2="210.597" y2="437.076" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="196.5" y1="430" x2="196.5" y2="438" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="183.447" y1="429.144" x2="182.403" y2="437.076" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="170.618" y1="426.593" x2="168.548" y2="434.32" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="158.232" y1="422.388" x2="155.17" y2="429.779" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="146.5" y1="416.603" x2="142.5" y2="423.531" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="135.624" y1="409.335" x2="130.754" y2="415.682" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="125.789" y1="400.711" x2="120.132" y2="406.368" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="117.165" y1="390.876" x2="110.818" y2="395.746" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="109.897" y1="380" x2="102.969" y2="384" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="104.112" y1="368.268" x2="96.721" y2="371.33" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="99.9074" y1="355.882" x2="92.18" y2="357.952" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="97.3555" y1="343.053" x2="89.424" y2="344.097" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="96.5" y1="330" x2="88.5" y2="330" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="97.3555" y1="316.947" x2="89.424" y2="315.903" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="99.9074" y1="304.118" x2="92.18" y2="302.048" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="104.112" y1="291.732" x2="96.721" y2="288.67" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="109.897" y1="280" x2="102.969" y2="276" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="117.165" y1="269.124" x2="110.818" y2="264.254" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="125.789" y1="259.289" x2="120.132" y2="253.632" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="135.624" y1="250.665" x2="130.754" y2="244.318" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="146.5" y1="243.397" x2="142.5" y2="236.469" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="158.232" y1="237.612" x2="155.17" y2="230.221" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="170.618" y1="233.407" x2="168.548" y2="225.68" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="183.447" y1="230.856" x2="182.403" y2="222.924" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="196.5" y1="230" x2="196.5" y2="222" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="209.553" y1="230.856" x2="210.597" y2="222.924" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="222.382" y1="233.407" x2="224.452" y2="225.68" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="234.768" y1="237.612" x2="237.83" y2="230.221" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="246.5" y1="243.397" x2="250.5" y2="236.469" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="257.376" y1="250.665" x2="262.246" y2="244.318" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="267.211" y1="259.289" x2="272.868" y2="253.632" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="275.835" y1="269.124" x2="282.182" y2="264.254" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="283.103" y1="280" x2="290.031" y2="276" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="288.888" y1="291.732" x2="296.279" y2="288.67" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="293.093" y1="304.118" x2="300.82" y2="302.048" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<line x1="295.644" y1="316.947" x2="303.576" y2="315.903" stroke="#0A84FF" stroke-width="1.2" stroke-linecap="butt" opacity="0.25"/>
+<circle cx="196.5" cy="330" r="34" fill="none" stroke="#FFFFFF" stroke-width="5.0"/>
+<rect x="191.5" y="296" width="10" height="68" rx="0" ry="0" fill="#000"/>
+<line x1="156.5" y1="370" x2="236.5" y2="290" stroke="#0A84FF" stroke-width="11" stroke-linecap="butt" opacity="0.95"/>
+<line x1="156.5" y1="370" x2="236.5" y2="290" stroke="#FFFFFF" stroke-width="7" stroke-linecap="butt"/>
+<text x="196.5" y="500" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="34" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="-0.4" xml:space="preserve">ZeroSploit</text>
+<text x="196.5" y="524" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="13" font-weight="400" fill="#0A84FF" text-anchor="middle" letter-spacing="2.4" xml:space="preserve">LAN SECURITY SUITE</text>
+<text x="196.5" y="566" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="15" font-weight="400" fill="rgba(235,235,245,0.60)" text-anchor="middle" letter-spacing="-0.24" xml:space="preserve">Authorized networks only.</text>
+<rect x="20" y="648" width="353" height="96" rx="12" ry="12" fill="#0B0B0D"/>
+<rect x="20" y="648" width="353" height="96" rx="12" ry="12" fill="none" stroke="rgba(84,84,88,0.65)" stroke-width="0.5"/>
+<text x="32" y="671.5" font-family="'SF Mono',ui-monospace,'SF Mono Text',Menlo,'Roboto Mono','DejaVu Sans Mono',monospace" font-size="11.5" font-weight="400" fill="rgba(235,235,245,0.60)" text-anchor="start" letter-spacing="0.2" xml:space="preserve">$ zerosploit --init</text>
+<text x="32" y="689.5" font-family="'SF Mono',ui-monospace,'SF Mono Text',Menlo,'Roboto Mono','DejaVu Sans Mono',monospace" font-size="11.5" font-weight="400" fill="#30D158" text-anchor="start" letter-spacing="0.2" xml:space="preserve">[ok]  native engine loaded</text>
+<text x="32" y="707.5" font-family="'SF Mono',ui-monospace,'SF Mono Text',Menlo,'Roboto Mono','DejaVu Sans Mono',monospace" font-size="11.5" font-weight="400" fill="#FFD60A" text-anchor="start" letter-spacing="0.2" xml:space="preserve">[ok]  raw socket capability</text>
+<text x="32" y="725.5" font-family="'SF Mono',ui-monospace,'SF Mono Text',Menlo,'Roboto Mono','DejaVu Sans Mono',monospace" font-size="11.5" font-weight="400" fill="rgba(235,235,245,0.30)" text-anchor="start" letter-spacing="0.2" xml:space="preserve">[--]  awaiting authorization</text>
+<rect x="20" y="748" width="353" height="3" rx="1.5" ry="1.5" fill="rgba(120,120,128,0.24)"/>
+<rect x="20" y="748" width="353" height="3" rx="1.5" ry="1.5" fill="#0A84FF"/>
+<text x="196.5" y="806" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Inter,'Segoe UI',sans-serif" font-size="11" font-weight="400" fill="rgba(235,235,245,0.30)" text-anchor="middle" letter-spacing="0.06" xml:space="preserve">v1.0.0  ·  C++ / JNI core</text>
+</svg>

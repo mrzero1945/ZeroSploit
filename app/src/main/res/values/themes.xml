@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.ZeroSploit" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/tint</item>
+        <item name="colorOnPrimary">#FFFFFFFF</item>
+        <item name="colorSecondary">@color/indigo</item>
+        <item name="android:colorBackground">@color/bg</item>
+        <item name="colorSurface">@color/bg_elev</item>
+        <item name="colorOnSurface">@color/text</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="27">false</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowLayoutInDisplayCutoutMode" tools:targetApi="27">shortEdges</item>
+        <item name="android:enforceNavigationBarContrast" tools:targetApi="29">false</item>
+        <item name="android:enforceStatusBarContrast" tools:targetApi="29">false</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <!-- launch theme: pure black, matches the splash design -->
+    <style name="Theme.ZeroSploit.Launch" parent="Theme.ZeroSploit">
+        <item name="android:windowBackground">@drawable/bg_launch</item>
+    </style>
+
+    <!-- ============ iOS type scale (mirrors design/theme.py ST_*) ========= -->
+    <style name="T" parent="">
+        <item name="android:textColor">@color/text</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+    <style name="T.largeTitle"><item name="android:textSize">34sp</item>
+        <item name="android:textStyle">bold</item><item name="android:letterSpacing">-0.012</item></style>
+    <style name="T.title1"><item name="android:textSize">28sp</item>
+        <item name="android:textStyle">bold</item><item name="android:letterSpacing">-0.011</item></style>
+    <style name="T.title3"><item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item><item name="android:letterSpacing">-0.012</item></style>
+    <style name="T.headline"><item name="android:textSize">17sp</item>
+        <item name="android:textStyle">bold</item><item name="android:letterSpacing">-0.024</item></style>
+    <style name="T.body"><item name="android:textSize">17sp</item><item name="android:letterSpacing">-0.024</item></style>
+    <style name="T.subhead"><item name="android:textSize">15sp</item><item name="android:letterSpacing">-0.016</item></style>
+    <style name="T.footnote"><item name="android:textSize">13sp</item><item name="android:letterSpacing">-0.006</item></style>
+    <style name="T.caption1"><item name="android:textSize">12sp</item></style>
+    <style name="T.caption2"><item name="android:textSize">11sp</item></style>
+    <style name="T.mono"><item name="android:fontFamily">monospace</item><item name="android:textSize">13sp</item></style>
+    <style name="T.monoSm"><item name="android:fontFamily">monospace</item><item name="android:textSize">11sp</item></style>
+    <style name="T.monoLg"><item name="android:fontFamily">monospace</item><item name="android:textSize">15sp</item></style>
+    <style name="T.section"><item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/text2</item><item name="android:letterSpacing">0.04</item></style>
+    <style name="T.button"><item name="android:textSize">15sp</item><item name="android:textStyle">bold</item>
+        <item name="android:letterSpacing">0.006</item></style>
+    <style name="T.overline"><item name="android:textSize">9sp</item><item name="android:textStyle">bold</item>
+        <item name="android:letterSpacing">0.08</item></style>
+</resources>

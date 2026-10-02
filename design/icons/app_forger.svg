@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.1" inkscape:version="1.4.2" width="1024pt" height="1024pt" viewBox="0 0 1024 1024">
+<title id="tt">ZEROSPLOIT</title>
+<defs id="zsdefs"><linearGradient id="g_forger" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#91EDEA"/><stop offset="0.45" stop-color="#63E6E2"/><stop offset="1" stop-color="#3D8E8C"/></linearGradient><filter id="sh1" x="-60%" y="-60%" width="220%" height="220%" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceAlpha" stdDeviation="30.72" result="b"/><feOffset in="b" dx="0" dy="12.288" result="o"/><feFlood flood-color="#000000" flood-opacity="0.42"/><feComposite in2="o" operator="in" result="s"/><feMerge><feMergeNode in="s"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="h_forger" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0.3"/><stop offset="0.55" stop-color="#FFFFFF" stop-opacity="0.03"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0.0"/></linearGradient></defs>
+<rect x="0" y="0" width="1024" height="1024" rx="229.069" ry="229.069" fill="url(#g_forger)" filter="url(#sh1)"/>
+<rect x="20.48" y="20.48" width="983.04" height="983.04" rx="229.069" ry="229.069" fill="url(#h_forger)"/>
+<path d="M 512.00 399.36 L 624.64 455.68 L 624.64 568.32 L 512.00 624.64 L 399.36 568.32 L 399.36 455.68 Z" fill="none" stroke="#FFFFFF" stroke-width="41.472" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 399.36 455.68 L 512.00 512.00 L 624.64 455.68" fill="none" stroke="#FFFFFF" stroke-width="33.177600000000005" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="512" y1="512" x2="512" y2="737.28" stroke="#FFFFFF" stroke-width="33.1776" stroke-linecap="butt"/>
+</svg>

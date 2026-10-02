@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- mirrors design/theme.py (iOS dark) -->
+    <color name="bg">#FF000000</color>
+    <color name="bg_elev">#FF1C1C1E</color>
+    <color name="bg_elev2">#FF2C2C2E</color>
+    <color name="bg_card">#FF1C1C1E</color>
+    <color name="bg_section">#FF141416</color>
+    <color name="fill">#3E787880</color>
+    <color name="fill2">#29787880</color>
+    <color name="fill3">#1F767880</color>
+    <color name="separator">#A6545454</color>
+    <color name="hairline">#73545454</color>
+    <color name="text">#FFFFFFFF</color>
+    <color name="text2">#99EBEBF5</color>
+    <color name="text3">#4DEBEBF5</color>
+    <color name="tint">#FF0A84FF</color>
+    <color name="blue">#FF0A84FF</color>
+    <color name="green">#FF30D158</color>
+    <color name="indigo">#FF5E5CE6</color>
+    <color name="orange">#FFFF9F0A</color>
+    <color name="pink">#FFFF375F</color>
+    <color name="purple">#FFBF5AF2</color>
+    <color name="red">#FFFF453A</color>
+    <color name="teal">#FF40C8E0</color>
+    <color name="yellow">#FFFFD60A</color>
+    <color name="mint">#FF63E6E2</color>
+    <color name="transparent">#00000000</color>
+</resources>
