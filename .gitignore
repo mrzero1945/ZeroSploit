@@ -10,6 +10,12 @@ app/build/
 # Machine-specific SDK location
 local.properties
 
+# Signing material -- NEVER commit these
+keystore.properties
+*.jks
+*.keystore
+*.p12
+
 # Android build outputs
 *.apk
 *.aab
